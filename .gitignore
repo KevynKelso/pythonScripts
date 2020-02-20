@@ -1,0 +1,3 @@
+test_html_files/
+*.pyc
+.DS_Store
